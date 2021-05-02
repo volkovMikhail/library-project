@@ -1,0 +1,59 @@
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe.config
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.pdb
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csprojAssemblyReference.cache
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Properties.Resources.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.GenerateResource.cache
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.CoreCompileInputs.cache
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.exe
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.pdb
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.LoginForm.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.RegForm.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Main.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.Admin.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminBookInfo.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe.config
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.pdb
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csprojAssemblyReference.cache
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.Admin.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminBookInfo.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.Book.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.LoginForm.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Main.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Properties.Resources.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.RegForm.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.GenerateResource.cache
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.exe
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.pdb
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminUserInfo.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.ForgotPassWord.resources
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database.mdf
+D:\УЧЁБА\3 КУРС!\РПО_Проект\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database_log.ldf
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database.mdf
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database_log.ldf
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminUserInfo.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.ForgotPassWord.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AboutBox.resources
+D:\profiles\vol_39\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.BookForm.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database.mdf
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Database_log.ldf
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe.config
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.exe
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\bin\Debug\Библиотечный_фонд.pdb
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csprojAssemblyReference.cache
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AboutBox.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.Admin.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminBookInfo.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.AdminUserInfo.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.BookForm.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Forms.ForgotPassWord.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.LoginForm.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Main.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.Properties.Resources.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.RegForm.resources
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.GenerateResource.cache
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.csproj.CoreCompileInputs.cache
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.exe
+C:\Users\VMICH\Desktop\Библиотечный_фонд\Библиотечный_фонд\obj\Debug\Библиотечный_фонд.pdb
